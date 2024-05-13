@@ -28,7 +28,7 @@ sqlite3 - база данных
 <br><br>
 time.sleep() - устанавливает задержку на скидывание файла пользователю, чтобы файл успел создаться
 <br><br>
-openpyxl - создание excel документа в python
+openpyxl - создание excel документа в python<br>
 pip install openpyxl
 <br><br>
 collections.defaultdict() - создание словаря для хранения товара, количества и его цены в удобном формате
