@@ -5,7 +5,7 @@ from time import sleep
 import excel_list
 import excel_list2
 
-bot = telebot.TeleBot('6670513034:AAEtrcpEaGcq-SEAedxb4iaCC1h9H6cHoi4')
+bot = telebot.TeleBot('')
 
 user_state = {}
 edit_msg_id = None
